@@ -210,7 +210,7 @@
     "less-loader": "^4.0.3",
     "lighthouse": "^2.4.0",
     "lint-staged": "^4.0.3",
-    "mocha": "^3.5.0",
+    "mocha": "^10.1.0",
     "node-sass": "^4.5.0",
     "phantomjs-polyfill": "^0.0.2",
     "phantomjs-prebuilt": "^2.1.15",
