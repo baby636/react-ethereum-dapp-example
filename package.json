@@ -174,7 +174,7 @@
     "web3": "^1.0.0-beta.18"
   },
   "devDependencies": {
-    "babel-eslint": "^7.1.1",
+    "babel-eslint": "^8.0.2",
     "babel-jest": "^20.0.1",
     "babel-loader": "^7.0.0",
     "better-npm-run": "^0.1.0",
